@@ -1,0 +1,215 @@
+8.12.2018 13:32:55:531 Pholosopher 2 thinking
+8.12.2018 13:32:55:708 Pholosopher 3 thinking
+8.12.2018 13:32:55:723 Pholosopher 5 thinking
+8.12.2018 13:32:55:763 Pholosopher 2 take left fork
+8.12.2018 13:32:55:773 Pholosopher 1 thinking
+8.12.2018 13:32:55:779 Pholosopher 4 thinking
+8.12.2018 13:32:55:788 Pholosopher 3 take left fork
+8.12.2018 13:32:55:794 Pholosopher 5 take left fork
+8.12.2018 13:32:55:800 Pholosopher 2 wait right fork
+8.12.2018 13:32:55:806 Pholosopher 1 take left fork
+8.12.2018 13:32:55:811 Pholosopher 4 take left fork
+8.12.2018 13:32:55:818 Pholosopher 3 wait right fork
+8.12.2018 13:32:55:824 Pholosopher 5 wait right fork
+8.12.2018 13:32:55:829 Pholosopher 1 wait right fork
+8.12.2018 13:32:55:835 Pholosopher 4 wait right fork
+8.12.2018 13:32:55:907 Pholosopher 2 thinking
+8.12.2018 13:32:55:921 Pholosopher 1 is eating
+8.12.2018 13:32:55:935 Pholosopher 3 thinking
+8.12.2018 13:32:55:948 Pholosopher 4 is eating
+8.12.2018 13:32:55:962 Pholosopher 5 thinking
+8.12.2018 13:32:55:974 Pholosopher 3 take left fork
+8.12.2018 13:32:55:989 Pholosopher 3 wait right fork
+8.12.2018 13:32:56:21 Pholosopher 2 thinking
+8.12.2018 13:32:56:74 Pholosopher 5 thinking
+8.12.2018 13:32:56:109 Pholosopher 3 thinking
+8.12.2018 13:32:56:126 Pholosopher 3 take left fork
+8.12.2018 13:32:56:134 Pholosopher 2 thinking
+8.12.2018 13:32:56:214 Pholosopher 3 wait right fork
+8.12.2018 13:32:56:229 Pholosopher 5 thinking
+8.12.2018 13:32:56:314 Pholosopher 2 thinking
+8.12.2018 13:32:56:329 Pholosopher 3 thinking
+8.12.2018 13:32:56:343 Pholosopher 5 thinking
+8.12.2018 13:32:56:359 Pholosopher 3 take left fork
+8.12.2018 13:32:56:373 Pholosopher 3 wait right fork
+8.12.2018 13:32:56:429 Pholosopher 2 thinking
+8.12.2018 13:32:56:460 Pholosopher 5 thinking
+8.12.2018 13:32:56:488 Pholosopher 3 thinking
+8.12.2018 13:32:56:505 Pholosopher 3 take left fork
+8.12.2018 13:32:56:520 Pholosopher 3 wait right fork
+8.12.2018 13:32:56:542 Pholosopher 2 thinking
+8.12.2018 13:32:56:573 Pholosopher 5 thinking
+8.12.2018 13:32:56:633 Pholosopher 3 thinking
+8.12.2018 13:32:56:645 Pholosopher 3 take left fork
+8.12.2018 13:32:56:657 Pholosopher 3 wait right fork
+8.12.2018 13:32:56:671 Pholosopher 2 thinking
+8.12.2018 13:32:56:687 Pholosopher 5 thinking
+8.12.2018 13:32:56:772 Pholosopher 3 thinking
+8.12.2018 13:32:56:793 Pholosopher 2 thinking
+8.12.2018 13:32:56:807 Pholosopher 3 take left fork
+8.12.2018 13:32:56:820 Pholosopher 5 thinking
+8.12.2018 13:32:56:834 Pholosopher 3 wait right fork
+8.12.2018 13:32:56:919 Pholosopher 2 thinking
+8.12.2018 13:32:56:934 Pholosopher 5 thinking
+8.12.2018 13:32:56:946 Pholosopher 2 take left fork
+8.12.2018 13:32:56:959 Pholosopher 1 thinking
+8.12.2018 13:32:56:972 Pholosopher 2 wait right fork
+8.12.2018 13:32:56:986 Pholosopher 3 is eating
+8.12.2018 13:32:57:1 Pholosopher 5 take left fork
+8.12.2018 13:32:57:15 Pholosopher 4 thinking
+8.12.2018 13:32:57:28 Pholosopher 1 take left fork
+8.12.2018 13:32:57:40 Pholosopher 5 wait right fork
+8.12.2018 13:32:57:102 Pholosopher 1 wait right fork
+8.12.2018 13:32:57:115 Pholosopher 2 thinking
+8.12.2018 13:32:57:128 Pholosopher 1 is eating
+8.12.2018 13:32:57:141 Pholosopher 4 thinking
+8.12.2018 13:32:57:202 Pholosopher 5 thinking
+8.12.2018 13:32:57:215 Pholosopher 5 take left fork
+8.12.2018 13:32:57:296 Pholosopher 2 thinking
+8.12.2018 13:32:57:309 Pholosopher 4 thinking
+8.12.2018 13:32:57:323 Pholosopher 5 wait right fork
+8.12.2018 13:32:57:409 Pholosopher 2 thinking
+8.12.2018 13:32:57:423 Pholosopher 4 thinking
+8.12.2018 13:32:57:438 Pholosopher 5 thinking
+8.12.2018 13:32:57:450 Pholosopher 5 take left fork
+8.12.2018 13:32:57:464 Pholosopher 5 wait right fork
+8.12.2018 13:32:57:521 Pholosopher 2 thinking
+8.12.2018 13:32:57:537 Pholosopher 4 thinking
+8.12.2018 13:32:57:576 Pholosopher 5 thinking
+8.12.2018 13:32:57:588 Pholosopher 5 take left fork
+8.12.2018 13:32:57:601 Pholosopher 5 wait right fork
+8.12.2018 13:32:57:635 Pholosopher 2 thinking
+8.12.2018 13:32:57:650 Pholosopher 4 thinking
+8.12.2018 13:32:57:716 Pholosopher 5 thinking
+8.12.2018 13:32:57:729 Pholosopher 5 take left fork
+8.12.2018 13:32:57:743 Pholosopher 5 wait right fork
+8.12.2018 13:32:57:758 Pholosopher 2 thinking
+8.12.2018 13:32:57:771 Pholosopher 4 thinking
+8.12.2018 13:32:57:858 Pholosopher 5 thinking
+8.12.2018 13:32:57:871 Pholosopher 2 thinking
+8.12.2018 13:32:57:884 Pholosopher 5 take left fork
+8.12.2018 13:32:57:897 Pholosopher 4 thinking
+8.12.2018 13:32:57:911 Pholosopher 5 wait right fork
+8.12.2018 13:32:57:984 Pholosopher 2 thinking
+8.12.2018 13:32:58:2 Pholosopher 3 thinking
+8.12.2018 13:32:58:15 Pholosopher 4 take left fork
+8.12.2018 13:32:58:29 Pholosopher 3 take left fork
+8.12.2018 13:32:58:42 Pholosopher 5 thinking
+8.12.2018 13:32:58:56 Pholosopher 4 wait right fork
+8.12.2018 13:32:58:70 Pholosopher 3 wait right fork
+8.12.2018 13:32:58:84 Pholosopher 5 take left fork
+8.12.2018 13:32:58:97 Pholosopher 5 wait right fork
+8.12.2018 13:32:58:111 Pholosopher 2 thinking
+8.12.2018 13:32:58:142 Pholosopher 5 is eating
+8.12.2018 13:32:58:156 Pholosopher 2 take left fork
+8.12.2018 13:32:58:169 Pholosopher 1 thinking
+8.12.2018 13:32:58:183 Pholosopher 2 wait right fork
+8.12.2018 13:32:58:197 Pholosopher 3 is eating
+8.12.2018 13:32:58:212 Pholosopher 4 thinking
+8.12.2018 13:32:58:284 Pholosopher 1 thinking
+8.12.2018 13:32:58:315 Pholosopher 2 thinking
+8.12.2018 13:32:58:328 Pholosopher 4 thinking
+8.12.2018 13:32:58:339 Pholosopher 2 take left fork
+8.12.2018 13:32:58:350 Pholosopher 2 wait right fork
+8.12.2018 13:32:58:415 Pholosopher 1 thinking
+8.12.2018 13:32:58:439 Pholosopher 4 thinking
+8.12.2018 13:32:58:460 Pholosopher 2 thinking
+8.12.2018 13:32:58:475 Pholosopher 2 take left fork
+8.12.2018 13:32:58:494 Pholosopher 2 wait right fork
+8.12.2018 13:32:58:529 Pholosopher 1 thinking
+8.12.2018 13:32:58:556 Pholosopher 4 thinking
+8.12.2018 13:32:58:610 Pholosopher 2 thinking
+8.12.2018 13:32:58:624 Pholosopher 2 take left fork
+8.12.2018 13:32:58:639 Pholosopher 2 wait right fork
+8.12.2018 13:32:58:654 Pholosopher 1 thinking
+8.12.2018 13:32:58:674 Pholosopher 4 thinking
+8.12.2018 13:32:58:755 Pholosopher 2 thinking
+8.12.2018 13:32:58:776 Pholosopher 1 thinking
+8.12.2018 13:32:58:795 Pholosopher 2 take left fork
+8.12.2018 13:32:58:820 Pholosopher 4 thinking
+8.12.2018 13:32:58:836 Pholosopher 2 wait right fork
+8.12.2018 13:32:58:895 Pholosopher 1 thinking
+8.12.2018 13:32:58:936 Pholosopher 4 thinking
+8.12.2018 13:32:58:954 Pholosopher 2 thinking
+8.12.2018 13:32:58:973 Pholosopher 2 take left fork
+8.12.2018 13:32:58:986 Pholosopher 2 wait right fork
+8.12.2018 13:32:59:9 Pholosopher 1 thinking
+8.12.2018 13:32:59:55 Pholosopher 4 thinking
+8.12.2018 13:32:59:94 Pholosopher 2 thinking
+8.12.2018 13:32:59:107 Pholosopher 2 take left fork
+8.12.2018 13:32:59:121 Pholosopher 1 thinking
+8.12.2018 13:32:59:137 Pholosopher 2 wait right fork
+8.12.2018 13:32:59:172 Pholosopher 1 thinking
+8.12.2018 13:32:59:191 Pholosopher 4 thinking
+8.12.2018 13:32:59:203 Pholosopher 1 take left fork
+8.12.2018 13:32:59:215 Pholosopher 2 is eating
+8.12.2018 13:32:59:223 Pholosopher 4 take left fork
+8.12.2018 13:32:59:232 Pholosopher 3 thinking
+8.12.2018 13:32:59:239 Pholosopher 1 wait right fork
+8.12.2018 13:32:59:248 Pholosopher 4 wait right fork
+8.12.2018 13:32:59:254 Pholosopher 4 thinking
+8.12.2018 13:32:59:261 Pholosopher 4 take left fork
+8.12.2018 13:32:59:276 Pholosopher 4 wait right fork
+8.12.2018 13:32:59:285 Pholosopher 4 is eating
+8.12.2018 13:32:59:340 Pholosopher 3 thinking
+8.12.2018 13:32:59:353 Pholosopher 1 thinking
+8.12.2018 13:32:59:368 Pholosopher 1 take left fork
+8.12.2018 13:32:59:382 Pholosopher 1 wait right fork
+8.12.2018 13:32:59:453 Pholosopher 3 thinking
+8.12.2018 13:32:59:496 Pholosopher 1 thinking
+8.12.2018 13:32:59:511 Pholosopher 1 take left fork
+8.12.2018 13:32:59:526 Pholosopher 1 wait right fork
+8.12.2018 13:32:59:569 Pholosopher 3 thinking
+8.12.2018 13:32:59:642 Pholosopher 1 thinking
+8.12.2018 13:32:59:666 Pholosopher 1 take left fork
+8.12.2018 13:32:59:690 Pholosopher 3 thinking
+8.12.2018 13:32:59:710 Pholosopher 1 wait right fork
+8.12.2018 13:32:59:812 Pholosopher 3 thinking
+8.12.2018 13:32:59:833 Pholosopher 1 thinking
+8.12.2018 13:32:59:857 Pholosopher 1 take left fork
+8.12.2018 13:32:59:874 Pholosopher 1 wait right fork
+8.12.2018 13:32:59:927 Pholosopher 3 thinking
+8.12.2018 13:32:59:990 Pholosopher 1 thinking
+8.12.2018 13:33:0:43 Pholosopher 1 take left fork
+8.12.2018 13:33:0:55 Pholosopher 3 thinking
+8.12.2018 13:33:0:73 Pholosopher 1 wait right fork
+8.12.2018 13:33:0:173 Pholosopher 3 thinking
+8.12.2018 13:33:0:190 Pholosopher 1 thinking
+8.12.2018 13:33:0:206 Pholosopher 1 take left fork
+8.12.2018 13:33:0:218 Pholosopher 1 wait right fork
+8.12.2018 13:33:0:229 Pholosopher 2 thinking
+8.12.2018 13:33:0:238 Pholosopher 3 take left fork
+8.12.2018 13:33:0:250 Pholosopher 1 is eating
+8.12.2018 13:33:0:260 Pholosopher 3 wait right fork
+8.12.2018 13:33:0:269 Pholosopher 3 thinking
+8.12.2018 13:33:0:280 Pholosopher 3 take left fork
+8.12.2018 13:33:0:291 Pholosopher 3 wait right fork
+8.12.2018 13:33:0:301 Pholosopher 3 is eating
+8.12.2018 13:33:0:338 Pholosopher 2 thinking
+8.12.2018 13:33:0:466 Pholosopher 2 thinking
+8.12.2018 13:33:0:515 Pholosopher 2 thinking
+8.12.2018 13:33:0:555 Pholosopher 2 take left fork
+8.12.2018 13:33:0:572 Pholosopher 2 wait right fork
+8.12.2018 13:33:0:691 Pholosopher 2 thinking
+8.12.2018 13:33:0:704 Pholosopher 2 take left fork
+8.12.2018 13:33:0:714 Pholosopher 2 wait right fork
+8.12.2018 13:33:0:821 Pholosopher 2 thinking
+8.12.2018 13:33:0:829 Pholosopher 2 take left fork
+8.12.2018 13:33:0:836 Pholosopher 2 wait right fork
+8.12.2018 13:33:0:952 Pholosopher 2 thinking
+8.12.2018 13:33:0:975 Pholosopher 2 take left fork
+8.12.2018 13:33:0:998 Pholosopher 2 wait right fork
+8.12.2018 13:33:1:116 Pholosopher 2 thinking
+8.12.2018 13:33:1:126 Pholosopher 2 take left fork
+8.12.2018 13:33:1:138 Pholosopher 2 wait right fork
+8.12.2018 13:33:1:249 Pholosopher 2 thinking
+8.12.2018 13:33:1:255 Pholosopher 2 take left fork
+8.12.2018 13:33:1:263 Pholosopher 2 wait right fork
+8.12.2018 13:33:1:297 Pholosopher 2 thinking
+8.12.2018 13:33:1:369 Pholosopher 2 take left fork
+8.12.2018 13:33:1:389 Pholosopher 2 wait right fork
+8.12.2018 13:33:1:402 Pholosopher 2 is eating
+8.12.2018 13:33:2:416 Pholosopher 2 thinking
+8.12.2018 13:33:2:430 Pholosopher 2 take left fork
+8.12.2018 13:33:2:444 Pholosopher 2 wait right fork
+8.12.2018 13:33:2:456 Pholosopher 2 is eating
